@@ -1,5 +1,4 @@
 const dotenv = require('dotenv');
-const SMS = require('../models/sms.model');
 
 dotenv.config();
 
